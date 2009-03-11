@@ -25,9 +25,7 @@ fieldset em { display: block; font-style: normal; color: #999; padding: 5px 1px;
 fieldset input, fieldset select { width: 50%; padding: 3px; }
 fieldset input.submit { width: auto; }
 fieldset textarea { width: 95%; padding: 3px; }
-table { width: 100%; font-family: arial,sans-serif; font-size: 13px; border-collapse: collapse; line-height: 19px; }
-table td, table th { padding: 5px; border: 1px solid #aaa; }
-table th { background: #3B5998; color: #FFF; }
+
 			
 /* #wrapper ======================================= */
 #wrapper { margin: 0px auto; width: 960px; text-align: left; }
@@ -53,6 +51,10 @@ table th { background: #3B5998; color: #FFF; }
 #content { margin: 25px 0 0 0; float: left; }
 #content blockquote { background:#F7F7F7; clear: both; border:1px solid #D8DFEA; margin: 5px 10px; padding: 10px; }
 #content .box-post h2 {font-size: 14px;}
+#content table { width: 100%; font-family: arial,sans-serif; font-size: 13px; border-collapse: collapse; line-height: 19px; border: 1px solid #aaa; }
+#content table td, table th { padding: 5px;  }
+#content table td { border-bottom: 1px solid #aaa; }
+#content table th { background: #3B5998; color: #FFF; }
 /* #content .box-post ======================================= */
 #content .box-post { margin: 15px 0 5px; }
 
@@ -139,7 +141,9 @@ table th { background: #3B5998; color: #FFF; }
 #sidebar .box-separator { border-bottom: 1px solid #E0E0E0; margin:5px 0 10px }
 #sidebar .col, #sidebar .col2 { float: left; width: 160px; margin-left: 5px; display: inline;}
 #sidebar .recentcomments { padding: 3px 0;}
-
+#sidebar table { font-family: arial,sans-serif; font-size: 11px; border-collapse: collapse; line-height: 17px; }
+#sidebar table td, table th { padding: 3px;  }
+#sidebar table th { color: #777; }
 /* #footer ======================================= */
 #footer { margin-top: 20px; padding: 0 0 10px; font-size: 11px; clear: both; text-align:center; float: left; width: 100%; background-color: #e5e5e5; border-top: 1px solid #b5b5b5; border-left: 1px solid #b5b5b5; border-right: 1px solid #b5b5b5; }
 #footer p { padding: 5px 0 0 0; border-top: 1px solid #fcfcfc; }
