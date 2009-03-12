@@ -1,0 +1,3 @@
+#summary Changing The Site Avatar
+#labels Phase-Design
+Please change the file located under `/wp-content/themes/crybook/images/site.jpg`, best resolution should be 60px for both width and height.
