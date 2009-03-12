@@ -1,3 +1,7 @@
-#summary Changing The Site Avatar
+#summary Controlling Site Avatar
 #labels Phase-Design
-Please change the file located under `/wp-content/themes/crybook/images/site.jpg`, best resolution should be 60px for both width and height.
+==Comments Avatar==
+By default, we have enable you to use Gravatar service for all commenters. You can control all configuration related to Gravatar usage from the Control Panel located under *Setting* > *Discussion*
+
+==About Me Avatar==
+To customize the About Me avatar at the home page please change the file located under `/wp-content/themes/crybook/images/site.jpg`, best resolution should be 60px for both width and height.
