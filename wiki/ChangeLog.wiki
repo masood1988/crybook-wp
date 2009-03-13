@@ -1,4 +1,5 @@
 #summary CryBook ChangeLog
+#labels Featured,Phase-Implementation
 == Version 2.0.1 ==
  * Disable search form at the page header.
  * Threading, paging, reply-to commenting feature based on WordPress 2.7
