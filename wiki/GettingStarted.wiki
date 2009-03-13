@@ -1,0 +1,9 @@
+#summary Getting Started with CryBook
+#labels Phase-Requirements,Featured
+
+= Requirement =
+ * Minimum WordPress 2.7
+ * PHP5 completed with cURL and SimpleXMLElement enabled
+
+= Customization =
+ # [SiteAvatar Configuring Site Avatar]
