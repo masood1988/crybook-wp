@@ -1,4 +1,4 @@
-#summary CryBook ChangeLog
+#summary CryBook WordPress Theme Development ChangeLog
 #labels Featured,Phase-Implementation
 == Version 2.0.1 ==
  * Disable search form at the page header.
