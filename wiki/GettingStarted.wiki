@@ -1,6 +1,6 @@
 #summary Getting Started with CryBook
 #labels Phase-Requirements,Featured
-<wiki:toc max_depth="2" />
+<wiki:toc max_depth="5" />
 
 == Requirement ==
  * Minimum WordPress 2.7
