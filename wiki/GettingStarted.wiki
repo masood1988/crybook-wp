@@ -1,4 +1,4 @@
-#summary Getting Started with CryBook
+#summary Getting Started with CryBook WordPress Theme
 #labels Phase-Deploy,Featured,Phase-Design
 <wiki:toc max_depth="5" />
 
