@@ -8,4 +8,5 @@
 == Downloading == 
 
 == Customization ==
- # [SiteAvatar Configuring Site Avatar]
+ * [SiteAvatar Configuring Site Avatar]
+ * [Advertisement Advertising in CryBook]
