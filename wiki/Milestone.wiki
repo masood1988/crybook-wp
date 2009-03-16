@@ -1,4 +1,4 @@
-#summary CryBook Milestone
+#summary CryBook WordPress Theme Development Milestone
 #labels Featured,Phase-QA
 
 == Version 2.1.0 ==
