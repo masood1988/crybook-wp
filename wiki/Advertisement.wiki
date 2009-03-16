@@ -1,0 +1,9 @@
+#summary Advertisement
+#labels Phase-Deploy,Phase-Design
+We doesn't restrict you from adding or using any form of advertisement package you may find in the Internet, but in our singular sidebar we already include a placeholder for you to add your `advertisement code`.
+
+Open `path/to/wordpress/wp-content/themes/crybook/extra/sidebar-page.php` in any text editor and go to line 53:
+{{{
+<!-- add your advertisement here -->
+}}}
+Replace the code above with your `advertisement code` mostly in JavaScript.
