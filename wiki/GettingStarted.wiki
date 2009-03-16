@@ -6,6 +6,13 @@
  * PHP5 completed with cURL and SimpleXMLElement enabled
 
 == Downloading == 
+===Via Package===
+CryBook's latest version (in .zip) can be downloaded from Downloads tab.
+===Via SVN Export===
+You can also get a latest copy from our repository via this command:
+{{{
+svn export http://crybook-wp.googlecode.com/svn/trunk/ <your_folder_name> 
+}}}
 
 == Customization ==
  * [SiteAvatar Configuring Site Avatar]
